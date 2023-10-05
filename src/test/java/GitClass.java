@@ -3,4 +3,5 @@ public class GitClass {
     // something go wrong
     // message on branch localBranch/newFunctionality
     // message #3
+    // change #4
 }
